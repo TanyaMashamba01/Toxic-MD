@@ -40,14 +40,14 @@ zokou(
 
 ◈━━━━━━━━━━━━━━━━◈
 │❒ Yo ${nomAuteurMessage}, here’s the 411 on 𝔗𝔬𝔵𝔦𝔠 𝔐𝔇’s repo! 📦
-│❒ *🔗 𝐆𝐢𝐭𝐇𝐮𝐛*: https://github.com/xhclintohn/Toxic-MD/fork
-│❒ *📩 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐆𝐫𝐨𝐮𝐩*: https://chat.whatsapp.com/GoXKLVJgTAAC3556FXkfFI
+│❒ *🔗 𝐆𝐢𝐭𝐇𝐮𝐛*: https://github.com/Jöṡḧüäṁäṁḅö1/Toxic-MD
+│❒ *📩 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐆𝐫𝐨𝐮𝐩*: https://chat.whatsapp.com/IUAzVGi8DVX3ipWjgDO8AU
 │❒ *💾 𝐑𝐀𝐌 𝐔𝐬𝐚𝐠𝐞*: ${format(os.totalmem() - os.freemem())} / ${format(os.totalmem())}
-│❒ *👑 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫*: 𝐱𝐡_𝐜𝐥𝐢𝐧𝐭𝐨𝐧
+│❒ *👑 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫*: MidKing01
 │❒ *🌐 𝐌𝐨𝐝𝐞*: ${mode}
 │❒ *📅 𝐃𝐚𝐭𝐞*: ${date}
 │❒ *⏰ 𝐓𝐢𝐦𝐞 (GMT)*: ${time}
-│❒ Powered by xh_clinton
+│❒ Powered by Joshuamambo1 NetKing 
 ◈━━━━━━━━━━━━━━━━◈
       `;
 
