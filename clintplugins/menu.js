@@ -45,7 +45,7 @@ zokou(
      𝐓𝐎𝐗𝐈𝐂-𝐌𝐃 𝐕𝟐
   
 > ✦ 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫: 
-@254735342808
+@26373838365135
 
 > ✦ 𝐌𝐨𝐝𝐞: 
 ${mode}
@@ -98,7 +98,7 @@ ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 ◈━━━━━━━━━━━━━━━━◈
 > 𝑨𝒍𝒍 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝑵𝒖𝒎𝒃𝒆𝒓𝒔 
   
-  @254735342808 (𝐌𝐚𝐢𝐧)
+  @263738365135 (𝐌𝐚𝐢𝐧)
   @254799283147 (𝐓𝐨𝐱𝐢𝐜)
   
  ⃝⃪⃕🥀-〭⃛〬𓆩〭⃛〬❥
@@ -108,8 +108,8 @@ ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
     try {
       const lien = mybotpic();
       const mentionedJids = [
-        "254735342808@s.whatsapp.net",
-        "254799283147@s.whatsapp.net",
+        "263716729222@s.whatsapp.net",
+        "263777756184@s.whatsapp.net",
       ];
 
       // Send menu based on media type
